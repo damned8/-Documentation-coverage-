@@ -14,5 +14,4 @@ Here we use [Storybook](https://storybook.js.org/) and [Compodoc](https://compod
 ## Add Compodoc:
 
 1. npm install --save-dev @compodoc/compodoc
-2. add tsconfig.doc.json
-3. add "compodoc": "npx compodoc -p tsconfig.doc.json" to package.json scripts
+*. add "compodoc": "npx compodoc -p tsconfig.doc.json" to package.json scripts
